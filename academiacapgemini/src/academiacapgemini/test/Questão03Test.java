@@ -1,13 +1,14 @@
-package academiacapgemini.questoes;
+package academiacapgemini.test;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Questao03 {
+import org.junit.jupiter.api.Test;
 
+public class Questão03Test {	    
 	
-	public static void main(String[] args) {
-	    
+	@Test
+	public void test3() {
 		// Entrada de dados
 		System.out.println("Digite uma palavra: ");
 		Scanner sc = new Scanner(System.in);
