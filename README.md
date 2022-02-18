@@ -17,7 +17,6 @@
 
 <ol>
     <li> Questão do projeto</li>
-    
     <li> Teste de métodos das questões</li>
 </ol>
 
